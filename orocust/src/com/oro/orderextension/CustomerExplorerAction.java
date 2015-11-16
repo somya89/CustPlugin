@@ -43,10 +43,3 @@ public class CustomerExplorerAction extends AbstractAction {
 	}
 
 }
-
-/*
- * Location:
- * C:\Users\SOMYA\Desktop\divya\orocust-0.7.jar!\com\oro\orderextension
- * \CustomerExplorerAction.class Java compiler version: 5 (49.0) JD-Core
- * Version: 0.7.1
- */
