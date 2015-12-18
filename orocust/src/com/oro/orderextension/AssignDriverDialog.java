@@ -47,7 +47,6 @@ public class AssignDriverDialog extends JDialog {
 	public AssignDriverDialog(Frame parent) {
 		super(parent, "Assign Driver", true);
 		createUI();
-
 		setDefaultCloseOperation(2);
 	}
 
@@ -262,10 +261,3 @@ public class AssignDriverDialog extends JDialog {
 		return this.canceled;
 	}
 }
-
-/*
- * Location:
- * C:\Users\SOMYA\Desktop\divya\orocust-0.7.jar!\com\oro\orderextension
- * \AssignDriverDialog.class Java compiler version: 5 (49.0) JD-Core Version:
- * 0.7.1
- */
