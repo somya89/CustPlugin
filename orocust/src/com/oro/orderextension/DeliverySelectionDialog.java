@@ -134,10 +134,3 @@ public class DeliverySelectionDialog extends JDialog {
 		this.ticketType = ticketType;
 	}
 }
-
-/*
- * Location:
- * C:\Users\SOMYA\Desktop\divya\orocust-0.7.jar!\com\oro\orderextension
- * \DeliverySelectionDialog.class Java compiler version: 5 (49.0) JD-Core
- * Version: 0.7.1
- */
